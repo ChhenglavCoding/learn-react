@@ -1,10 +1,10 @@
-
-
+import Greeting from "./components/Greeting";
 function App() {
   return (
-<div>
-<h1>hello react + vite</h1>
-</div>
+    <div>
+      <Greeting/>
+      <Greeting/>
+    </div>
   )
 }
 

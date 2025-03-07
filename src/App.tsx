@@ -1,7 +1,7 @@
 import Greeting from "./components/Greeting";
 import{Greeting1, Greeting2} from "./components/Greeting";
 
-import { TestJSX } from "./components/Greeting";
+import { TestJSX } from "./components/TestJSX";
 
 
 
